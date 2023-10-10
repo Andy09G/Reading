@@ -1,4 +1,4 @@
-# reading 1
+# reading notes 1
 
 ## The Big Hack
 
@@ -14,3 +14,5 @@ The hack worked because China was the one producing the hardware that the big co
 
 How were investigators able to trace the chips back to the source?
 They went looking at the primary manufactors of the super micro's and found out the source of the problem.
+
+## Things I want to know more about 
