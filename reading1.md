@@ -1,6 +1,6 @@
-#reading 1
+# reading 1
 
-##The Big Hack
+## The Big Hack
 
 How is a hardware hack different than a software hack?
 The difference is that for the hardware hack the person needs to be physically on site, unlike a software hack.
