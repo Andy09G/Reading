@@ -1,4 +1,4 @@
-# reading note 5
+# reading notes 5
 
 ## The Linux command line for beginners
 
@@ -9,3 +9,6 @@ What are the commands to change directories, list the file’s contents and rena
 What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?
 
 Explain what Linux is, using anything except English.
+
+
+# Things I want to know more about
