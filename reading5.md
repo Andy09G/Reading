@@ -11,4 +11,4 @@ What are relative and absolute paths? What is special about starting with a ~ (t
 Explain what Linux is, using anything except English.
 
 
-# Things I want to know more about
+## Things I want to know more about
