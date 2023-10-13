@@ -1,5 +1,7 @@
 # reading notes 2
 
+## How to build a computer
+
 Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?
 
 
