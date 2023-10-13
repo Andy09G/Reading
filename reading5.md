@@ -1,4 +1,6 @@
-# The Linux command line for beginners
+# reading note 5
+
+## The Linux command line for beginners
 
 Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 
