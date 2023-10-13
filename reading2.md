@@ -16,3 +16,5 @@ What are the tradeoffs you’d evaluate while selecting a storage device? The si
 
 Think about others with a background similar to yours. How would you explain to them the key parts of a computer, in a way they’d best connect with? 
 The most important parts, when building is the motherboard and making sure your cpu is comparable to the motherboard, storage device and the power suply to make sure it has enough power to power everything.
+
+## Things I want to know more about
