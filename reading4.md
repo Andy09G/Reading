@@ -14,3 +14,5 @@ Ubuntu GNOME Shell is typically used when Ubuntu uses the GNOME desktop environm
 
 How do I install software from the command line?
 You open the terminal to then update your package list. Then you you search the software you want to instal. When you find the name of the software, you then write this commend (sudo apt install name of the software) and that's it. 
+
+## Things I want to know more about
