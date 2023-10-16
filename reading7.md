@@ -34,4 +34,4 @@ RDP stands for "Remote Desktop Protocol."
 What is the RDP port number?
 Its 3389.
 
-## Things I would like to know more about 
+## Things I want to know more about 
